@@ -72,7 +72,7 @@
 ### Task 6: Log Monitoring Output
   - Execute the monitoring script and append its output to monitor_logs.txt:
     - ./monitor.sh >> monitor_logs.txt
-  -  Verify the log file contents: c
+  -  Verify the log file contents: 
      - cat monitor_logs.txt
 ### Task 7: Enhance Monitoring Script
 - Improve the script output for better readability.
