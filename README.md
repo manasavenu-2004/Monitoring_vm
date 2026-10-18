@@ -61,7 +61,7 @@
  - Add the files to Git
    - git add .
  - Commit the changes
-   - git commit -m "Monitoring Commit"
+   - git commit -m "Monitoring Script Commit"
  - Connect the local repository to GitHub
    - git remote add origin YOUR_GITHUB_REPOSITORY_URL
  - Rename the current branch to main
